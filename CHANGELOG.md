@@ -14,3 +14,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Modificamos guía de instalación en README
+
+Estoy modificando el archivo desde dev
